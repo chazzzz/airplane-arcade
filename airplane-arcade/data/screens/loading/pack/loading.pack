@@ -1,0 +1,12 @@
+
+loading.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+loading_screen
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
